@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    border: 10px solid grey;
+    padding: 20px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+header h4,
+header h3 {
+    margin-bottom: 20px;
+}
+
+#first,
+#second {
+    border-left: 3px solid grey;
+    margin-bottom: 20px;
+}
+
+#first p,
+#second p {
+    padding-left: 5px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+hr {
+    margin-bottom: 20px;
+}
+
+header h4 {
+    color: rgb(29, 8, 223);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}

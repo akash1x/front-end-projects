@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 50px auto;
+}
+
+.hr {
+    border-left: 1px solid black;
+}
+
+.md {
+    border-right: 1px solid black;
+}
+
+.first,
+.second {
+    padding: 50px;
+    border-bottom: 1px solid black;
+}
+
+.pad {
+    padding: 50px;
+}

@@ -1,0 +1,19 @@
+.bg-light {
+    background-color: rgb(40, 40, 148) !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: whitesmoke;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+    color: whitesmoke;
+}
+
+.navbar-light .navbar-brand {
+    color: whitesmoke;
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
